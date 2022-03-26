@@ -1,5 +1,7 @@
 # IMC
 Projeto com JS, HTML e CSS para calcular IMC!
+* Link do projeto em funcionamento: https://rodrigod324.github.io/IMC/
+
 * Feito com base neste vídeo: https://www.youtube.com/watch?v=RacwEvoTz_Y
 * Link do GitHub: https://github.com/fernandoleonid/mini-projetos-js
 <br>
